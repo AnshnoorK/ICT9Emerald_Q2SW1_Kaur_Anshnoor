@@ -1,0 +1,10 @@
+table {border: 1px solid darkred; background-color: lightyellow; text-align: center}
+body {
+	  font-family: Arial, sans-serif; 
+	  text-align: center;
+	  margin: 50px;}
+
+#logo  {text-align: center; margin: 20px}
+#familymeals {text-align: center;}
+
+th {color:burlywood;}
