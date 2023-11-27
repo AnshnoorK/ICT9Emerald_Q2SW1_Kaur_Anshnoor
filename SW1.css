@@ -1,0 +1,11 @@
+#logo {text-align: center;}
+
+body { background-color: lightsalmon; }
+
+table {background-color:beige; margin-left: auto; margin-right: auto; border-color: darkred; color: darkred;}
+
+th {font-size: 25px; background-color:crimson; letter-spacing: 2px; font-family: sans-serif;}
+
+td {padding: 0px; background-color: floralwhite;}
+
+tr {text-align: center}
